@@ -1,29 +1,33 @@
 
-DRG_WALLET: Superhero Return-on-Investment/Portfolio with Behavioral Advice
+
+
+# DRG_WALLET: Superhero Return-on-Investment/Portfolio with Behavioral Advice
+
 Welcome to DRG_WALLET, the ultimate application for tracking your incredible earnings! This powerful C application allows you to manage your earnings like a true superhero, providing you with behavioral advice that will make you feel invincible.
 
-Superhero Features
-Epic Earnings Tracking: Every time you conquer an incredible amount, record your earnings in our superhero app. No more small gains like amateurs!
-Historical Archive of Heroic Feats: Keep track of all your epic financial exploits with our superhero transaction history.
-Total Financial Power Calculation: The application calculates your total financial power by summing up your superhero earnings.
-Champion Behavioral Advice: Not only do we monitor your earnings, but we also provide superhero behavioral advice to maximize your financial power.
+## Superhero Features
+- Epic Earnings Monitoring: Every time you achieve an incredible figure, record your earnings in our superhero app. No more small gains for amateurs!
+- Heroic Deeds History: Keep track of all your epic financial feats through our superhero transaction history.
+- Total Financial Power Calculation: The application calculates your total financial power by summing up your superhero earnings.
+- Champion Behavioral Advice: We not only monitor your earnings but also provide you with superhero behavioral advice to maximize your financial power.
 
-Superpowered Usage Modes
-Record Heroic Earnings: When you achieve a remarkable financial feat, open our superhero app and select the option to record a new heroic earning. Follow the on-screen instructions to enter the earnings amount and description of your exploit.
-View Historical Heroic Feats: Enter the archive of your financial exploits and admire your list of past heroic feats. You'll see your incredible earnings, along with the date and time of your exploits.
-Calculate Total Financial Power: The application empowers you to know your total financial power through our superpowered calculation.
-Superhero Behavioral Advice: We're not only here to track your earnings but also to provide you with superhero behavioral advice to help you achieve financial greatness. Follow our advice, and you'll become a true champion.
+## Superpowered Usage Modes
+1. Record an Epic Earning: When you accomplish a remarkable financial feat, open our superhero app and select the option to record a new epic earning. Follow the on-screen instructions to input the earning amount and description of your feat.
+2. View Heroic Deeds History: Dive into the archive of your financial exploits and marvel at your list of past heroic deeds. You can see your incredible earnings, the date, and time of your deeds.
+3. Calculate Total Financial Power: The application empowers you to know your total financial power, thanks to our supercharged calculation.
+4. Superhero Behavioral Advice: We are not only here to track your earnings but also provide you with superhero behavioral advice to help you achieve financial greatness. Follow our advice, and you will become a true champion.
 
-Superhero Requirements
-Operating System: [Specify the operating system requirements, e.g., Windows, Linux, macOS]
-C Compiler: [Specify the required C compiler]
+## Superhero Requirements
+- Operating System: [Specify the required operating system, e.g., Windows, Linux, macOS]
+- C Compiler
 
-Superpowered Installation
+## Superpowered Installation
+1. Clone the repository or download the source code.
+2. Open the terminal and navigate to the project directory.
+3. Compile the source code using the command `gcc -c main.c drugwalletllib.c`.
+4. Run the resulting application to start using your superhero return-on-investment/portfolio.
 
-Clone the repository or download the source code.
-Open the terminal and navigate to the project directory.
-Compile the source code using the command gcc -c main.c drugwalletllib.c.
-Run the resulting application to start using your superhero Return-on-Investment/Portfolio.
+---
 ---
 # DRG_WALLET:Tornaconto/Portafoglio da Supereroe con Consigli Comportamentali
 
@@ -49,7 +53,7 @@ Benvenuto nel Tornaconto/Portafoglio da Supereroe, l'applicazione definitiva per
 ## Requisiti per Supereroi
 
 - Sistema operativo: [specificare i requisiti del sistema operativo, ad esempio Windows, Linux, macOS]
-- Compilatore C: [specificare il compilatore C richiesto]
+- Compilatore C
 
 ## Installazione Superpotente
 
