@@ -34,7 +34,7 @@ Welcome to DRG_WALLET, the ultimate application for tracking your incredible ear
 
 
 
-Benvenuto nel Tornaconto/Portafoglio da Supereroe, l'applicazione definitiva per tenere traccia dei tuoi guadagni incredibili! Questa potente applicazione in C ti consente di gestire i tuoi guadagni come un vero supereroe, offrendoti anche consigli comportamentali che ti faranno sentire invincibile.
+Benvenuto nel Tornaconto/Portafoglio da Supereroe, l'applicazione definitiva per tenere traccia dei tuoi guadagni incredibili! Questa potente applicazione in C ti consente di gestire i tuoi guadagni come un vero ~~pusher~~supereroe, offrendoti anche consigli comportamentali che ti faranno sentire invincibile.
 
 ## Funzionalità da Supereroe
 
