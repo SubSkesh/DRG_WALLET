@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: Compila progetto completo con gcc.exe",
+            "command": "C:/MinGW/bin/gcc.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${workspaceFolder}/main.c",
+                "${workspaceFolder}/drgwalletlib.c",
+                "-o",
+                "${workspaceFolder}/drgwallet_program.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Compilazione completa del progetto."
+        }
+    ]
+}
