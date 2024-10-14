@@ -34,15 +34,21 @@ typedef struct nodo_lista
     struct nodo_lista *next;
 }NODO;
 typedef NODO *list;
+void clearInputBuffer(void);
+void listAvailableWallets();
+void selectWallet();
 int NumCasualBetween(int min, int max);
 list cons (list l,Element el);
+void truncateString(char *str, int maxLength);
 void printElement(Element x);
 void showlist(list l);
 list delete_node(list l,int el);
-list delete_node(list l,int el);
 void FromListToFile(list l);
 list FromFileToList(list l);
+void CreateNewWallet();
+void Archive_Wallet(const char* walletFilename);
 void CreatePassword(void);
+
 
 int InsertPassword(void);
 void Visualizzazione(void);
@@ -53,7 +59,7 @@ list ModifyByTagList(list l,int tag);
 list Modify_deal(void);
 list Delete_Deal(void);
 list Add_Deal(list l);
-void Archive_deals(const char* walletFilename);
+void OpenArchivedWallet(void);
 //void Archive_deals(void);
 void HowMuchShouldISell(float spesa,float gramstaken,float gramsoldfor);
 void HowMuchDidIEarn(void);
